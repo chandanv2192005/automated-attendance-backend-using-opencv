@@ -9,7 +9,7 @@
 from __future__ import annotations 
 import os, sys, time, uuid, queue, json, csv, datetime, math
 import cv2
-import numpy as np
+import numpy as np 
 import mediapipe as mp
 
 from PySide6 import QtCore, QtGui, QtWidgets
