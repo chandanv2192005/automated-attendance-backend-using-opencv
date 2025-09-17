@@ -2,7 +2,7 @@
 # Automated Rural Attendance monitoring system
 # Unified App (Capture + Train + Recognize) 
 # Fixes: model/labels integrity check, eye-aligned recognition, prototype gating to reject unknowns 
-# Layout: 65% video / 35% controls, multithreaded, per-student counters
+# Layout: 65% video / 35% controls, multithreaded, per-student counters 
 # Requires:  
 #   pip install PySide6 opencv-contrib-python mediapipe numpy
  
