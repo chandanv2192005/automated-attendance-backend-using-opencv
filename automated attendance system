@@ -5,7 +5,7 @@
 # Layout: 65% video / 35% controls, multithreaded, per-student counters 
 # Requires:  
 #   pip install PySide6 opencv-contrib-python mediapipe numpy  
-   
+    
 from __future__ import annotations 
 import os, sys, time, uuid, queue, json, csv, datetime, math
 import cv2
